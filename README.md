@@ -1,0 +1,2 @@
+# Inventory-Management-untuk-Optimalisasi-Bisnis-UMKM-menggunakan-algoritma-apriori-dan-FP-Growth
+Market Basket Analysis adalah teknik yang dapat digunakan oleh UMKM untuk mengidentifikasi produk mana yang paling sering dibeli pembeli bersama-sama. Disini kita akan melibatkan analisis data transaksi Point of Sale (POS) untuk mengidentifikasi korelasi antara item yang berbeda sesuai dengan kemunculannya dalam data.
